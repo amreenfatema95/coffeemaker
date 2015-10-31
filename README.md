@@ -4,7 +4,7 @@
 Amreen Fatima S Surani
 
 ### Date ###
-March 3, 2015
+March 2015
 
 
 1. INTRODUCTION
@@ -23,7 +23,7 @@ The application can be initiated using a command line interface or through an ID
 3.1 Usage through an IDE
 ------------------------
 
-If an IDE like eclipse is being used then it would be required to run the TestMinesweeper.java file. 
+If an IDE like eclipse is being used then it would be required to run the TestCoffeeMaker.java file. 
 
 3.2 Usage through a command line interface
 ------------------------------------------
@@ -34,4 +34,4 @@ java -cp bin sgt2.TestCoffeeMaker
 
 The following assumptions apply:
 * All class files are in the bin folder, and
-* Package is called minesweeper
+* Package is called sgt2
